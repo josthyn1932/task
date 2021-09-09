@@ -1,0 +1,33 @@
+*{
+	box-sizing: border-box; 
+    margin: 0;
+    padding: 0 auto;
+}
+.container{
+	text-align: center;
+	z-index: 2px;
+	width: 100%;
+	max-width: 100%
+	margin:0 auto;
+	padding: 3em;
+	box-sizing:border-box;
+}
+.container_principal{
+	width: 90%;
+	max-width: 100%;
+	margin: 0 auto;
+	background: black;
+	box-sizing:border-box;
+}
+.presentacion2{
+	box-sizing:border-box;
+	text-align: center;
+	width: 90%;
+	margin: auto;
+	color: white;
+	font-size: 19px;
+	text-shadow: 2px 2px 2px black;
+	font-family: impact;
+	background: #95A5A6;
+	padding: 22px;
+}
